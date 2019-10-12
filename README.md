@@ -8,3 +8,5 @@
 
 - THêm nội dung khi gihub đã edit
 - Edit date: 12/10/2019
+
+- Thêm mới từ local
