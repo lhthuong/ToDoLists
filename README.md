@@ -9,16 +9,7 @@
 - THêm nội dung khi gihub đã edit
 - Edit date: 12/10/2019
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 - Thêm mới từ local
 =======
 
-
 - Thêm mới
->>>>>>> 9a070f3579ecf7ffebc2c847d1f65e7ea3e156ac
-=======
-
-
-- Thêm mới
->>>>>>> 9a070f3579ecf7ffebc2c847d1f65e7ea3e156ac
