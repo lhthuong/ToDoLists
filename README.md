@@ -13,3 +13,5 @@
 =======
 
 - Thêm mới
+
+- Edit date 14/10/2019 from remote
